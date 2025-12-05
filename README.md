@@ -17,15 +17,15 @@ A beautiful, modern notes application built with React and Express.js. Organize 
 
 ### Homepage - Notes List
 
-![Notes Homepage](./frontend/public/ProjectImages/Screenshot%202025-12-05%20112356.png)
+![Notes Homepage](../frontend/public/ProjectImages/Screenshot%202025-12-05%20112356.png)
 
 ### Create New Note
 
-![Create Note Page](./frontend/public/ProjectImages/Screenshot%202025-12-05%20112412.png)
+![Create Note Page](../frontend/public/ProjectImages/Screenshot%202025-12-05%20112412.png)
 
 ### Edit Note
 
-![Edit Note Page](./frontend/public/ProjectImages/Screenshot%202025-12-05%20112429.png)
+![Edit Note Page](../frontend/public/ProjectImages/Screenshot%202025-12-05%20112429.png)
 
 ## Tech Stack
 
@@ -349,3 +349,4 @@ For questions, issues, or suggestions:
 **Built with ❤️ using React 19, Vite 7, and Express.js**
 
 _Last Updated: December 2025_
+
